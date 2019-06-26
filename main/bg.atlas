@@ -1,0 +1,9 @@
+images {
+  image: "/assets/map/bg.png"
+}
+images {
+  image: "/assets/map/plataform.png"
+}
+margin: 0
+extrude_borders: 2
+inner_padding: 0
